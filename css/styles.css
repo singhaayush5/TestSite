@@ -68,6 +68,7 @@ h3{
     font-family: 'Montserrat', sans-serif;
     font-weight: bolder;
     padding: 20px;
+    text-decoration: none;
 }
 .skill-row{
     width: 50%;
@@ -130,9 +131,15 @@ hr{
     line-height: 1.5;
 }
 .copyright{
+    padding-top: 20px;
+    padding-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
+    font-size:0.85rem;
     color:#9A1F40;
 }
 .feelfree{
     margin-bottom: 30px;
+}
+a:hover{
+    color:#FAEDF0;
 }
